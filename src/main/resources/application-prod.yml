@@ -1,0 +1,14 @@
+
+spring:
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://43.139.242.106:3306/user-center?serverTimezone=GMT%2b8
+    username: user-center2023
+    password: root
+    #session失效时间
+
+
+
+
+
